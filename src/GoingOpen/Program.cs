@@ -11,6 +11,7 @@ namespace GoingOpen {
             Console.WriteLine("Commit in both open and closed source - shared.");
 			Console.WriteLine("A commit in the develop branch.");
 			Console.WriteLine("A commit in a BRANCH of the develop branch.");
+			Console.WriteLine("Another commit in the devbranch branch.");
         }
     }
 }
